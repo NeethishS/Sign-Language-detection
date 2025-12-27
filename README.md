@@ -97,19 +97,6 @@ https://drive.google.com/drive/folders/1aJx8pG4i4istjnWy8It_5sIzlQ6k5LDx?usp=sha
   * **Mobile app version**
   * **Multiple language support**
 
----
-
-## 👥 Team Members
-
-* Vivek Rajak
-* Soham Rane
-* Mandar Salvi
-* Vansh Wase
-
-**Guided by:**
-💡 Prof. Deepti Janjani
-
----
 
 ## 📚 References
 
