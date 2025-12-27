@@ -118,9 +118,4 @@ https://drive.google.com/drive/folders/1aJx8pG4i4istjnWy8It_5sIzlQ6k5LDx?usp=sha
 
 ---
 
-## 🌐 Project Demo
 
-🔗 Try it out here:
-https://www.linkedin.com/in/mandarsalvi03/
-
----
